@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Youngson001
-- 👀 I’m interested in Tech
+- 👀 I’m interested in Tech.
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything tech related. 
 - 📫 How to reach me +2349015466412. henryemeka05@gmail.com
 
 <!---
